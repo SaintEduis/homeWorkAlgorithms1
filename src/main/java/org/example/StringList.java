@@ -28,4 +28,6 @@ public interface StringList {
     void clear();
 
     String[] toArray();
+
+    int hashCode();
 }
