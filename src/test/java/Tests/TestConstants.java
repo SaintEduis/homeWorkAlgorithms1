@@ -8,7 +8,6 @@ public class TestConstants {
     public static String WORLD_STRING = "World";
     public static String GREAT_STRING = "Great";
     public static String NO_USAGE_STRING = "This is no usage!";
-    public static String BAD_STRING = "This is bad string!";
     public static String NULL_STRING = null;
     public static int FIRST_BAD_INDEX = 100;
     public static int SECOND_BAD_INDEX = -1;
